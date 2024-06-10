@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "freenom.com",
+        "ipleak.net",
+        "smzdm.com",
+        "whoer.net"
+      ]
+    }
+  ],
+  "version": 1
+}
